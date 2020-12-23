@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Structure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Numm>555</Numm>
+  <Vagons>
+    <Vagon>
+      <Model>USSR</Model>
+      <SerialNumber>789</SerialNumber>
+      <VagonType>Passenger</VagonType>
+      <CapacityPassengers>60</CapacityPassengers>
+      <CapacityCarrying>1000</CapacityCarrying>
+    </Vagon>
+    <Vagon>
+      <Model>UK</Model>
+      <SerialNumber>788</SerialNumber>
+      <VagonType>Commodity</VagonType>
+      <CapacityPassengers>61</CapacityPassengers>
+      <CapacityCarrying>1001</CapacityCarrying>
+    </Vagon>
+  </Vagons>
+  <Loco>
+    <Name>Burya</Name>
+    <SerialNumber>123</SerialNumber>
+    <LocomotiveType>Thermal</LocomotiveType>
+  </Loco>
+</Structure>
